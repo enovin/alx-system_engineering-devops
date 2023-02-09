@@ -22,4 +22,6 @@ File Descriptions
 
 10-mirror_permissions: Sets the permissions of the file "hello" to that of the file "olleh"
 
+11-directories_permissions: Adds execute permission to all subdirectories in the current working directory all users, excluding files
+
 
