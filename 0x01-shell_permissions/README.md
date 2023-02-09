@@ -16,4 +16,6 @@ File Descriptions
 
 7-everybody: Adds execution permission to the owner, the group owner and the other users, to the file "hello"
 
+8-James_Bond: Sets the permission of the owner and group owner to none at all, and that of the other users to all the permissions
+
 
