@@ -26,4 +26,6 @@ File descriptions
 
 12-file_type: Prints the type of a file called iamafile located in /tmp
 
+13-symbolic_link: Creates a symbolic link in the working directory to /bin/ls, named __ls__
+
 
