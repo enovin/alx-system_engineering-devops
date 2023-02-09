@@ -30,3 +30,6 @@ File Descriptions
 
 100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
 
+101-symbolic_link_permissions: Chnages the owner and group owner of the symbolic link "_hello" to vincent and staff respectively
+
+
