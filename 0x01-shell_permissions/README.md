@@ -6,4 +6,6 @@ File Descriptions
 
 2-groups: Prints all the groups the current user is part of
 
+3-new_owner: Chnages the owenr of the file "hello" to the user "betty"
+
 
