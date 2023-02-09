@@ -23,3 +23,7 @@ File descriptions
 10-back: Changes the current working directory to the previous one
 
 11-lists: Lists all files, including the hidden ones, in the current working directory, the parent directory of the current working directory and the /boot directory, in long format, in that order
+
+12-file_type: Prints the type of a file called iamafile located in /tmp
+
+
