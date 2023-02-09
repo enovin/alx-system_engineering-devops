@@ -17,3 +17,5 @@ File descriptions
 7-movethatfile: Moves a file called betty from the /tmp folder to /tmp/my_first_directory
 
 8-firstdelete: Deletes file called betty from /tmp/my_first_project
+
+9-firstdirdelete: Deletes directory called my_first_directory from /tmp
