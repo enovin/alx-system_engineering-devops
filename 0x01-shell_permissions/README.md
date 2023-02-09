@@ -6,7 +6,7 @@ File Descriptions
 
 2-groups: Prints all the groups the current user is part of
 
-3-new_owner: Chnages the ownerr of the file "hello" to the user "betty"
+3-new_owner: Changes the owner of the file "hello" to the user "betty"
 
 4-empty: Creates an empty file called hello
 
@@ -23,5 +23,9 @@ File Descriptions
 10-mirror_permissions: Sets the permissions of the file "hello" to that of the file "olleh"
 
 11-directories_permissions: Adds execute permission to all subdirectories in the current working directory all users, excluding files
+
+12-directory_permissions: Creates a directory named "my_dir" in the working directory with permission mode 751
+
+13-change_group: Changes the group owner to "school" for the file "hello"
 
 
