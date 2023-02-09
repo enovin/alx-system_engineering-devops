@@ -21,3 +21,5 @@ File descriptions
 9-firstdirdelete: Deletes directory called my_first_directory from /tmp
 
 10-back: Changes the current working directory to the previous one
+
+11-lists: Lists all files, including the hidden ones, in the current working directory, the parent directory of the current working directory and the /boot directory, in long format, in that order
