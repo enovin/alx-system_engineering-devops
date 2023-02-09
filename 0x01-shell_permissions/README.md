@@ -28,4 +28,204 @@ File Descriptions
 
 13-change_group: Changes the group owner to "school" for the file "hello"
 
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
+100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
+
 
