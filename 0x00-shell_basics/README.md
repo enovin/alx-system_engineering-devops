@@ -33,3 +33,5 @@ File descriptions
 100-lets_move: Moves all files with starting with an uppercase letter to /tmp/u
 
 101-clean_emacs: Delete all files in the working directory that end with the ~ character
+
+102-tree: Creates the following directories in the working directory: welcome/, welcome/to/, welcome/to/school
