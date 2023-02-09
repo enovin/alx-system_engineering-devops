@@ -12,4 +12,6 @@ File Descriptions
 
 5-execute: Adds execute permission to the owner of the file hello
 
+6-multiple_permissions: Adds execute permission to the owner and the group owner, amd read permission to other users, to the file "hello"
+
 
