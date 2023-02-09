@@ -30,15 +30,3 @@ File Descriptions
 
 100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
 
-
-100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
-
-100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
-
-100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
-
-100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
-
-100-change_owner_and_group: Changes the owner to "vincent" and group to "staff" for all files and directories in the working directory
-
-
