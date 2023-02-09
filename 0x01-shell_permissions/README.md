@@ -18,4 +18,6 @@ File Descriptions
 
 8-James_Bond: Sets the permission of the owner and group owner to none at all, and that of the other users to all the permissions
 
+9-John_Doe: Sets the permission of "hello" to 753
+
 
