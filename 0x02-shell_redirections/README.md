@@ -12,4 +12,6 @@ File Descriptions
 
 5-firstlines: Displays the first ten lines of the /etc/passwd file
 
+6-third_line: Displays the third line of the file "iacta"
+
 
