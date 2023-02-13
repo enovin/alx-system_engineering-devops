@@ -18,4 +18,6 @@ File Descriptions
 
 8-cwd_state: Output the result of ls -la into the file ls_cwd_content and overwrittes the file if it already exists
 
+9-duplicate_last_line: Duplicates the last line of the file "iacta"
+
 
