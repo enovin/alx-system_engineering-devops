@@ -20,4 +20,6 @@ File Descriptions
 
 9-duplicate_last_line: Duplicates the last line of the file "iacta"
 
+10-no_more_js: Deletes all regular files (not directories) with a .js extension that are present in the working directory and all of its subfolders
+
 
