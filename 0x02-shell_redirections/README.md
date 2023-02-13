@@ -14,4 +14,8 @@ File Descriptions
 
 6-third_line: Displays the third line of the file "iacta"
 
+7-file: Creates a file named \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) with content "Best School"
+
+8-cwd_state: Output the result of ls -la into the file ls_cwd_content and overwrittes the file if it already exists
+
 
