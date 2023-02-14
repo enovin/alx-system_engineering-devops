@@ -40,4 +40,6 @@ File Descriptions
 
 19-AZ: Replace all characters A and c from input to Z and e respectively
 
+20-hiago: Delete all occurrences of c and C from input
+
  
