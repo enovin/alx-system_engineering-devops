@@ -16,4 +16,6 @@ File Descriptions
 
 7-create_global_variable: Create global variable BEST with value School
 
+8-true_knowledge: Print the result of the addition of 128 with the value stored in TRUEKNOWLEDGE
+
 
