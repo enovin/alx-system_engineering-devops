@@ -18,3 +18,6 @@ File Descriptions
 
 8-true_knowledge: Print the result of the addition of 128 with the value stored in TRUEKNOWLEDGE
 
+9-divide_and_rule: Print the result of POWER divided by DIVIDE, followed by a new line
+
+
