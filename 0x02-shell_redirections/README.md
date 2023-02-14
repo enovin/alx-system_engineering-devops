@@ -46,4 +46,6 @@ File Descriptions
 
 22-users_and_homes: Display all users and their home directories, sorted by users
 
+23-empty_casks: Find all empty files and directories in the current directory, includng hidden files
+
  
