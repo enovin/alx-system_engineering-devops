@@ -28,4 +28,6 @@ File Descriptions
 
 13-unique: Takes a list of words as input and prints words that only appear exactly once, in a sorted order
 
+14-findthatword: Displays lines containing the pattern "root" from the file /etc/passwd
+
 
