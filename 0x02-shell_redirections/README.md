@@ -24,4 +24,4 @@ File Descriptions
 
 11-directories: Counts the number of directories and subdirectories (including hidden directories) in the current working directory, not taking into account the current and parent directories
 
-
+12-newest_files: Displays the first 10 newest files in the current directory
