@@ -46,6 +46,8 @@ File Descriptions
 
 22-users_and_homes: Display all users and their home directories, sorted by users
 
-23-empty_casks: Find all empty files and directories in the current directory, includng hidden files
+100-empty_casks: Find all empty files and directories in the current directory, includng hidden files
 
- 
+101-gifs: List all the files with a .gif extension in the current directory and all its sub-directories, sorted by byte values and case-insensitive
+
+
