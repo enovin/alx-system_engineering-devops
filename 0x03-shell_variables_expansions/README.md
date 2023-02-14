@@ -14,4 +14,6 @@ File Descriptions
 
 6-create_local_variable: Create local variable BEST with value School
 
+7-create_global_variable: Create global variable BEST with value School
+
 
