@@ -38,4 +38,6 @@ File Descriptions
 
 18-letteronly: Displays all the lines of the file /etc/ssh/sshd_config starting with a letter, including capital letters
 
+19-AZ: Replace all characters A and c from input to Z and e respectively
+
  
