@@ -44,4 +44,6 @@ File Descriptions
 
 21-reverse: Reverse the lines of its input
 
+22-users_and_homes: Display all users and their home directories, sorted by users
+
  
