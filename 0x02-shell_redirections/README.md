@@ -42,4 +42,6 @@ File Descriptions
 
 20-hiago: Delete all occurrences of c and C from input
 
+21-reverse: Reverse the lines of its input
+
  
