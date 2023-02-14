@@ -22,4 +22,6 @@ File Descriptions
 
 10-no_more_js: Deletes all regular files (not directories) with a .js extension that are present in the working directory and all of its subfolders
 
+11-directories: Counts the number of directories and subdirectories (including hidden directories) in the current working directory, not taking into account the current and parent directories
+
 
