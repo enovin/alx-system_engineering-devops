@@ -50,4 +50,6 @@ File Descriptions
 
 101-gifs: List all the files with a .gif extension in the current directory and all its sub-directories, sorted by byte values and case-insensitive
 
+102-acrostic: Decode acrostics using the first letter of each line
+
 
