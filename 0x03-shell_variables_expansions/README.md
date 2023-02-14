@@ -8,4 +8,6 @@ File Descriptions
 
 3-paths: Display the number of directories in PATH
 
+4-global_variables: List environment variables
+
 
