@@ -22,4 +22,6 @@ File Descriptions
 
 10-love_exponent_breath: Print the result of BREATH to the power LOVE
 
+11-binary_to_decimal: Convert the number in base 2 stored in the environment variable BINARY to base 10
+
 
