@@ -28,4 +28,6 @@ File Descriptions
 
 13-print_float: Print the number stored in enviroment variable NUM in two decimal places
 
+100-decimal_to_hexadecimal: Converst the number stored in the environment variable DECIMAL to base 16
+
 
