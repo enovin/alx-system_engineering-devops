@@ -26,4 +26,6 @@ File Descriptions
 
 12-combinations: Print all possible combinations of two letters except oo
 
+13-print_float: Print the number stored in enviroment variable NUM in two decimal places
+
 
