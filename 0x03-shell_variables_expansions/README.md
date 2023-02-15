@@ -24,4 +24,6 @@ File Descriptions
 
 11-binary_to_decimal: Convert the number in base 2 stored in the environment variable BINARY to base 10
 
+12-combinations: Print all possible combinations of two letters except oo
+
 
