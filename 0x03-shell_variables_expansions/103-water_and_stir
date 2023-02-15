@@ -1,0 +1,2 @@
+#!/bin/bash
+printf '%X\n' "$((2#${WATER} + 2#${STIR}))" | tr 'A-F' 'a-f'
