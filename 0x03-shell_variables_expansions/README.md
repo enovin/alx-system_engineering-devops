@@ -30,4 +30,6 @@ File Descriptions
 
 100-decimal_to_hexadecimal: Converst the number stored in the environment variable DECIMAL to base 16
 
+101-rot13: Encode and decode text using rot13 encryption, asssuning ASCII
+
 

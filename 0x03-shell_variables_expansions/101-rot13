@@ -1,0 +1,2 @@
+#!/bin/bash
+printf '%s' "$1" | tr $(printf '%s' {a..z}{A..Z} | tr -d 'oo') $(printf '%s' {n..z}{a..m}{N..Z}{A..M} | tr -d 'oo')
