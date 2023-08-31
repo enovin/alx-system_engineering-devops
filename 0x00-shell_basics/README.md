@@ -11,3 +11,5 @@
 4-listmorefiles - display current directory, including hidden files in long format
 
 5-listfilesdigitonly - display current director with user and gorup Ids displayed numerically and hidden files in long format
+
+6-firstdirectory - creates a directory called my_first_directiry in the /tmp/ directory
