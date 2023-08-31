@@ -25,3 +25,5 @@
 11-lists - lists all fiels in the working dorectory, parent directory and boot directory, in a long format
 
 12-file_type - prints the type of the file names iamfile in /tmp/ directory
+
+13-symbolic_link - create a symbolic link to /bin/ls names __ls__, the link will be created in the current working directory
