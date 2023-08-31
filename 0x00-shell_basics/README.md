@@ -23,3 +23,5 @@
 10-back - changes the working directory to the previous one
 
 11-lists - lists all fiels in the working dorectory, parent directory and boot directory, in a long format
+
+12-file_type - prints the type of the file names iamfile in /tmp/ directory
