@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -A -m -v | sed 's/,$/\//'
