@@ -13,3 +13,5 @@
 5-listfilesdigitonly - display current director with user and gorup Ids displayed numerically and hidden files in long format
 
 6-firstdirectory - creates a directory called my_first_directiry in the /tmp/ directory
+
+7-movethatfile - move the betty from /tmp/ to /tmp/my_first_directory
