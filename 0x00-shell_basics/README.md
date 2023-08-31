@@ -9,3 +9,5 @@
 3-listfiles - display current directory contents in a long format
 
 4-listmorefiles - display current directory, including hidden files in long format
+
+5-listfilesdigitonly - display current director with user and gorup Ids displayed numerically and hidden files in long format
