@@ -21,3 +21,5 @@
 9-firstdirdeletion - delete the my_first_deletion directory in the /tmp/ directory
 
 10-back - changes the working directory to the previous one
+
+11-lists - lists all fiels in the working dorectory, parent directory and boot directory, in a long format
