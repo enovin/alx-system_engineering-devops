@@ -15,3 +15,5 @@
 6-firstdirectory - creates a directory called my_first_directiry in the /tmp/ directory
 
 7-movethatfile - move the betty from /tmp/ to /tmp/my_first_directory
+
+8-firstdelete - delete the file betty in /tmp/my_first_directory
