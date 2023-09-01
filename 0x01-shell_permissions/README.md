@@ -16,4 +16,6 @@
 
 7-everybody - adds execution permission to the owner, group owner and the other users, to the file hello
 
-8-James_Bond - Adds a 007 permission to the file hello
+8-James_Bond - adds a 007 permission to the file hello
+
+9-John_Doe - adds a 751 permssion to the file hello
