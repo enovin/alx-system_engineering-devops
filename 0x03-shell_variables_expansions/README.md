@@ -14,4 +14,4 @@
 
 6-create_local_variable - creates a new local variable called BEST with a value School
 
-
+7-create_global_variable - creates a new global variable called BEST with a value School
