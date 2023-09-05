@@ -24,4 +24,6 @@
 
 11-binary_to_decimal - converts a number from base 2 to base 10. The number in base 2 is stored in the environment variable BINARY
 
+12-combinations - prints all possible combinations of two letters, except oo
+
 
