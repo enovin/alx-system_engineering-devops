@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -type d -empty -print0 -o -type f -empty -print0 | sed -z 's/.*\///' | sed -e '/^$/d'
